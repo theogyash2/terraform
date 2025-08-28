@@ -21,7 +21,7 @@ terraform {
       version = "3.5.0"
     }
     local = {
-      source  = "hashicorp/local"
+      source  = "hashicorp/lcal"
       version = "1.5.2"
     }
     tls = {
